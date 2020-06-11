@@ -1,5 +1,5 @@
 # dinstudio
  Digital agency website
 
-This first release need improvment later
+This first release
 https://nzhdn.github.io/dinstudio/
